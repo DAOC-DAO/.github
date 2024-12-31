@@ -4,7 +4,7 @@ DAOC DAO is an employee-owned and non-profit organization working on lots of cun
 
 ## Why we need to build a robot society?
 
-We consider this issue for two reasons:
+We consider this idea for two reasons:
 
 First, humans will eventually be bitten back by their own greed and selfish nature, which leading to its destruction.
 
@@ -16,4 +16,4 @@ We believe that building such a robot society requires solving three basic quest
 
 ## How robots can communicate credibly?
 
-## How can a robot society evolve itself?
+## How the robot society evolve itself?
